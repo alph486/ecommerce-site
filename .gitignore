@@ -5,6 +5,7 @@ media
 .DS_Store
 #*.sqlite3 demo db
 *.env
+.python-version
 
 # Accept these files in the repository
 !.gitignore
